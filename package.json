@@ -1,0 +1,23 @@
+{
+  "name": "josibake.io",
+  "version": "1.0.0",
+  "description": "lil personal website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josibake/josibake.io.git"
+  },
+  "keywords": [
+    "personal",
+    "website"
+  ],
+  "author": "Josiah Baker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/josibake/josibake.io/issues"
+  },
+  "homepage": "https://github.com/josibake/josibake.io#readme"
+}
